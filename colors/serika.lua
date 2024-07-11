@@ -269,7 +269,7 @@ local groups = {
 	Typedef = {},
 	Underlined = {},
 	VertSplit = {},
-	Visual = { bg = colors.neutral_900, fg = colors.white },
+	Visual = { bg = colors.neutral_700, fg = colors.white },
 	VisualNC = {},
 	VisualNOS = {},
 	WarningMsg = {},
